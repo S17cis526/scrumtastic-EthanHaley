@@ -1,0 +1,22 @@
+{
+  "name": "scrumtastic-ethanhaley",
+  "version": "1.0.0",
+  "description": "CIS 526 Classwork",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S17cis526/scrumtastic-EthanHaley.git"
+  },
+  "author": "Ethan Haley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S17cis526/scrumtastic-EthanHaley/issues"
+  },
+  "homepage": "https://github.com/S17cis526/scrumtastic-EthanHaley#readme",
+  "dependencies": {
+    "sqlite3": "3.1.8"
+  }
+}
